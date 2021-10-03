@@ -1,6 +1,6 @@
 <p align='center'>
   <b>Hi 👋, I'm Bob</b><br>
-  <a href="https://discord.gg/Bob Marley#0001">Discord</a> |
+  <a href="https://discord.gg/invite/BobMarley#0001">Discord</a> |
 
 </p>
 
