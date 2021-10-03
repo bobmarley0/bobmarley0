@@ -30,10 +30,10 @@
 	<br>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobmarley0&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dark">
 	
-	![trophy](https://github-profile-trophy.vercel.app/?username=raisedadead&no-frame=true&margin-w=15&theme=nord)
+	
 </p>
-
-
+<p>&nbsp;</p>    
+![trophy](https://github-profile-trophy.vercel.app/?username=raisedadead&no-frame=true&margin-w=15&theme=nord)
 <p>&nbsp;</p>    
 
 ---  
