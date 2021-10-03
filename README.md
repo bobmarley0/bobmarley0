@@ -32,8 +32,11 @@
 	
 	
 </p>
-  
-![trophy](https://github-profile-trophy.vercel.app/?username=bobmarley0&no-frame=true&margin-w=15&theme=nord)
+
+<p align="center"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=bobmarley0&no-frame=true&margin-w=15&theme=nord" />
+</p>
+
 
 <p>&nbsp;</p>    
 
